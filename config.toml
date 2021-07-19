@@ -1,3 +1,0 @@
-[env]
-FOO = "bar"
-MYSQLCLIENT_LIB_DIR = { value = "connector\mysqlclient.lib", relative = true }
